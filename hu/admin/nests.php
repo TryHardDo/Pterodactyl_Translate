@@ -9,18 +9,18 @@
 
 return [
     'notices' => [
-        'created' => ':name nevű Nest sikeresen létrehozva.',
+        'created' => 'Egy új Nest :name néven sikeresen létrehozva.',
         'deleted' => 'A kért Nest sikeresen törölve a panelből.',
         'updated' => 'A Nest konfigurációjának beállításai sikeresen frissítve.',
     ],
     'eggs' => [
         'notices' => [
-            'imported' => 'Sikeresen importálta ezt a tojást és a hozzá tartozó változókat.',
+            'imported' => 'Sikeresen importálta ezt az Egget és a hozzá tartozó változókat.',
             'updated_via_import' => 'Ezt a Tojást a mellékelt file által frissítettük.',
             'deleted' => 'Sikeresen törölve a kért Egg a panelből.',
             'updated' => 'Az Egg configurációja sikeresen frissítve.',
             'script_updated' => 'Az Egg telepítő szkript frissítve és a szerver telepítésekor lefut.',
-            'egg_created' => 'Az új Egg sikeresen letrehozva. Az új Egg alkalmazásához újra kell indítania a futó daemonokat.',
+            'egg_created' => 'Az új Egg sikeresen létrehozva. Az új Egg alkalmazásához újra kell indítania a futó daemonokat.',
         ],
     ],
     'variables' => [
