@@ -5,7 +5,8 @@ Minden módosítás a pending nevű branchba kerül. A main branchba csak a eset
 # Információk amik segítséget nyújthatnak
 Mivel nem teljesen írtam le minden opciót így ha kérdésed van kérlek tedd fel bátran.
 
-A #main branch-ben 2 mappa található. Egyik ami a magyar fordítás mappája, illetve az angol nyelvű mappa. Ha ellenőrizni szeretnél 1 fordítást de nem tudod hogy szól az eredeti szöveg akkor ki tudod keresni. Ebben a mappában 
+A #main branch-ben 2 mappa található. Egyik ami a magyar fordítás mappája, illetve az angol nyelvű mappa. Ha ellenőrizni szeretnél 1 fordítást de nem tudod hogy szól az eredeti szöveg akkor ki tudod keresni. Ebben a mappában tilos módosításokat végezni és minden pull request el lesz utasítva.
+Változtatás csak akkor történet ha a panelben frissítést követően új fordítandó szöveg jelenik meg.
 
 # Feltételek
 - Ha egy speciális szó van megadva valamilyen funkció kifejezésre pl. (Egg (Tojás) vagy Nest (Fészek)) azt nem kell lefordítani. Ez igen csak megzavarhatja a felhasználót.
