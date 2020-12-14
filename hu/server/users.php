@@ -25,9 +25,9 @@ return [
         'database_update' => 'Engedélyezi a felhasználó számára, hogy módosításokat hajtson végre az adatbázison. Ha a felhasználónak nincs "Jelszó megtekintése" engedélye, akkor nem tudja módosítani a jelszót.',
         'database_delete' => 'Engedélyezi a felhasználó számára az adatbázis(ok) törlését.',
         'database_view_password' => 'Engedélyezi a felhasználó számára az adatbázis-jelszó megtekintését a rendszerben.',
-        'schedule_create' => 'Lehetővé teszi a felhasználó számára, hogy új időbeosztást hozzon létre a szerverhez.',
-        'schedule_read' => 'Engedélyezi a felhasználó számára a szerver időbeosztásainak megtekintését.',
-        'schedule_update' => 'Engedélyezi a felhasználó számára, hogy módosítsa a meglévő szerver időbeosztásait.',
-        'schedule_delete' => 'Lehetővé teszi a felhasználó számára, hogy törölje a szerver időbeosztását.',
+        'schedule_create' => 'Lehetővé teszi a felhasználó számára, hogy új ütemezett feladatot hozzon létre a szerverhez.',
+        'schedule_read' => 'Engedélyezi a felhasználó számára a szerver ütemezett feladatainak megtekintését.',
+        'schedule_update' => 'Engedélyezi a felhasználó számára, hogy módosítsa a meglévő szerver ütemezett feladatait.',
+        'schedule_delete' => 'Lehetővé teszi a felhasználó számára, hogy törölje a szerver ütemezett feladatait.',
     ],
 ];
