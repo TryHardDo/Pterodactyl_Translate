@@ -7,7 +7,7 @@ return [
         'control_start' => 'Lehetővé teszi a felhasználó számára a szerver elindítását.',
         'control_stop' => 'Lehetővé teszi a felhasználó számára a szerver leállítását.',
         'control_restart' => 'Lehetővé teszi a felhasználó számára a szerver újraindítását.',
-        'control_kill' => 'Lehetővé teszi a felhasználó számára a szerver megölését.',
+        'control_kill' => 'Lehetővé teszi a felhasználó számára a szerver kényszerített leállítását.',
         'user_create' => 'Lehetővé teszi a felhasználó számára, hogy új felhasználói fiókokat hozzon létre a szerverhez.',
         'user_read' => 'Engedélyezi a felhasználó számára a szerverhez társított felhasználók megtekintését.',
         'user_update' => 'Lehetővé teszi a felhasználó számára, hogy módosítsa a szerverhez társított más felhasználókat.',
