@@ -21,7 +21,7 @@ return [
             'field' => 'Token megadása',
         ],
         'disable' => [
-            'title' => '2-Faktoros hitelesítés kikapcsolása',
+            'title' => 'Kétfaktoros hitelesítés kikapcsolása',
             'field' => 'Token megadása',
         ],
     ],
