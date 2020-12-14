@@ -9,7 +9,7 @@
 
 return [
     'exceptions' => [
-        'user_has_servers' => 'Nem törölhető olyan felhasználó akinek karakteréhez működő szerver van csatolva. Kérlek töröld előtte az adott szervert mielőtt folytatnád.',
+        'user_has_servers' => 'Nem törölhető olyan felhasználó, akinhez működő szerver van csatolva. Kérlek előbb töröld a felhasználóhoz csatolt szervereket.',
     ],
     'notices' => [
         'account_created' => 'Felhasználó sikeresen létrehozva.',
