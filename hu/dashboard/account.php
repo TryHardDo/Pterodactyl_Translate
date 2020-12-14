@@ -16,7 +16,7 @@ return [
         'enabled' => 'A 2-Faktoros hitelesítő engedélyezve a fiókodon! Mostantól a bejelentkezéskor meg kell adnod az eszközöd által generált kódot.',
         'invalid' => 'A megadott token érvénytelen.',
         'setup' => [
-            'title' => '2-Faktoros hitelesítés beállítása',
+            'title' => 'Kétfaktoros hitelesítés beállítása',
             'help' => 'Nem tudod szkennelni a kódot? Írd be az alábbi kódot az applikációdba:',
             'field' => 'Token megadása',
         ],
