@@ -3,7 +3,7 @@
 return [
     'email' => [
         'title' => 'Email frissítése',
-        'updated' => 'Az email címed sikeresen frissítve.',
+        'updated' => 'Az email-címed sikeresen frissítve.',
     ],
     'password' => [
         'title' => 'Jelszó megváltoztatása',
