@@ -11,9 +11,9 @@ return [
         'updated' => 'A jelszavad sikeresen frissítve.',
     ],
     'two_factor' => [
-        'button' => '2-Faktoros hitelesítés konfigurálása',
-        'disabled' => 'A 2-Faktoros hitelesítő ki van kapcsolva a fiókodon. A bejelentkezéskor a továbbiakban nem lesz szükség token megadására.',
-        'enabled' => 'A 2-Faktoros hitelesítő engedélyezve a fiókodon! Mostantól a bejelentkezéskor meg kell adnod az eszközöd által generált kódot.',
+        'button' => 'Kétfaktoros hitelesítés konfigurálása',
+        'disabled' => 'A kétfaktoros hitelesítés ki van kapcsolva a fiókodon. A bejelentkezéskor a továbbiakban nem lesz szükség token megadására.',
+        'enabled' => 'A kétfaktoros hitelesítés engedélyezve a fiókodon! Mostantól a bejelentkezéskor meg kell adnod az eszközöd által generált kódot.',
         'invalid' => 'A megadott token érvénytelen.',
         'setup' => [
             'title' => 'Kétfaktoros hitelesítés beállítása',
