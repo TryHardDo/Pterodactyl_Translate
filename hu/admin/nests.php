@@ -26,7 +26,7 @@ return [
     'variables' => [
         'notices' => [
             'variable_deleted' => 'A változó ":variable" törölve lett, és az újjáépítés után már nem lesz elérhető a többi szerver számára.',
-            'variable_updated' => 'A változó ":variable" frissítve lett. A változások alkalmazásához minden szervert újra kell építeni ezzel a változóval.',
+            'variable_updated' => 'A(z) ":variable" változó frissítve lett. A változások alkalmazásához minden szervert újra kell építeni ezzel a változóval.',
             'variable_created' => 'Új változó sikeresen létrehozva és hozzárendelve ehhez az Egg-hez.',
         ],
     ],
