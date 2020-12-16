@@ -27,8 +27,8 @@ return [
         'details_updated' => 'A szerver részletei sikeresen frissültek.',
         'docker_image_updated' => 'Successfully changed the default Docker image to use for this server. A reboot is required to apply this change. Sikeresen megváltoztatta a szerverhez használt alapértelmezett Docker-képet. A változások életbe lépéséhez újraindítás szükséges.',
         'node_required' => 'Legalább egy, már konfigurált csomópontra van szükség hogy szervert hozhass létre a panelen belül.',
-        'transfer_nodes_required' => 'Legalább kettő, már konfigurált csomópontra van szükséged hogy szervert migrálhass.',
-        'transfer_started' => 'A szerver migrálása elkezdődött.',
-        'transfer_not_viable' => 'A kiválasztott csomópont nem alkalmas erre a migrálásra.',
+        'transfer_nodes_required' => 'Legalább kettő, már konfigurált csomópontra van szükséged hogy szervert helyezhess át.',
+        'transfer_started' => 'A szerver áthelyezése elkezdődött.',
+        'transfer_not_viable' => 'A kiválasztott csomópont nem alkalmas szerverek áthelyezésére',
     ],
 ];
