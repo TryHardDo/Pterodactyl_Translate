@@ -9,10 +9,10 @@
 
 return [
     'exceptions' => [
-        'user_has_servers' => 'Cannot delete a user with active servers attached to their account. Please delete their servers before continuing.',
+        'user_has_servers' => 'Nem törölhető olyan felhasználó, akinhez működő szerver van csatolva. Kérlek előbb töröld a felhasználóhoz csatolt szervereket.',
     ],
     'notices' => [
-        'account_created' => 'Account has been created successfully.',
-        'account_updated' => 'Account has been successfully updated.',
+        'account_created' => 'Felhasználó sikeresen létrehozva.',
+        'account_updated' => 'Felhasználó sikeresen frissítve.',
     ],
 ];
