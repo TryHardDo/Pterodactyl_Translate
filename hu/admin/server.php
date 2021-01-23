@@ -2,6 +2,7 @@
 /**
  * Pterodactyl - Panel
  * Copyright (c) 2015 - 2017 Dane Everitt <dane@daneeveritt.com>.
+ * Hungarian Translation by TryHardDo & Poma123
  *
  * This software is licensed under the terms of the MIT license.
  * https://opensource.org/licenses/MIT

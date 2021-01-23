@@ -1,5 +1,7 @@
 <?php
-
+/**
+* Hungarian Translation by TryHardDo & Poma123
+**/
 return [
     'email' => [
         'title' => 'Email frissítése',

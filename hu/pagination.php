@@ -3,7 +3,7 @@
 return [
     /*
     |--------------------------------------------------------------------------
-    | Pagination Language Lines
+    | Pagination Language Lines - Hungarian Translation By TryHardDo & Poma123
     |--------------------------------------------------------------------------
     |
     | The following language lines are used by the paginator library to build
@@ -12,6 +12,6 @@ return [
     |
     */
 
-    'previous' => '&laquo; Previous',
-    'next' => 'Next &raquo;',
+    'previous' => '&laquo; Előző',
+    'next' => 'Következő &raquo;',
 ];
