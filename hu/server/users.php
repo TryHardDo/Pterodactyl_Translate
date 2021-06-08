@@ -1,5 +1,7 @@
 <?php
-
+/**
+* Hungarian Translation by TryHardDo & Poma123
+**/
 return [
     'permissions' => [
         'websocket_*' => 'Hozzáférést biztosít a szerver websockethez.',

@@ -1,4 +1,7 @@
 <?php
+/**
+* Hungarian Translation by TryHardDo & Poma123
+**/
 
 return [
     'sign_in' => 'Belépés',

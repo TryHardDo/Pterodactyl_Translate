@@ -3,7 +3,7 @@
 return [
     /*
     |--------------------------------------------------------------------------
-    | Validation Language Lines
+    | Validation Language Lines - Hungarian Translation by TryHardDo & Poma123
     |--------------------------------------------------------------------------
     |
     | The following language lines contain the default error messages used by

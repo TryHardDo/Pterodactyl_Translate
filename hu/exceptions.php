@@ -1,4 +1,7 @@
 <?php
+/**
+* Hungarian Translation by TryHardDo & Poma123
+**/
 
 return [
     'daemon_connection_failed' => 'There was an exception while attempting to communicate with the daemon resulting in a HTTP/:code response code. This exception has been logged.',
